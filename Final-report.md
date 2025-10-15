@@ -17,7 +17,6 @@
 &#8226; GitHub: <a href="https://github.com/sahitya-chandra" target="_blank">sahitya-chandra</a><br />
 &#8226; LinkedIn: <a href="https://www.linkedin.com/in/sahitya-chandra75/" target="_blank">Sahitya Chandra</a><br />
 &#8226; X: <a href="https://x.com/sahitya_75" target="_blank">sahitya_75</a><br />
-&#8226; Discord: Sahitya
 <td>
 <a href="https://github.com/sahitya-chandra"><img src="https://github.com/sahitya-chandra.png" height="250px" width="250px;" alt="Sahitya Chandra"/></a>
 </td>
@@ -36,7 +35,7 @@
 UI Layout Optimization for RUXAILAB and Migrating the Codebase to Vue 3
 
 ### GSoC Project Page
-- [GSoC 2025 with RUXAILAB](https://summerofcode.withgoogle.com/programs/2025/projects/iTnW9V5g)
+- [GSoC 2025 with Uramaki LAB](https://summerofcode.withgoogle.com/programs/2025/projects/iTnW9V5g)
 
 ### Project Proposal
 - [Project Proposal](https://github.com/sahitya-chandra/GSoC-2025/blob/main/sahitya-gsoc25-ruxailab.pdf)
@@ -45,7 +44,7 @@ UI Layout Optimization for RUXAILAB and Migrating the Codebase to Vue 3
 - [RUXAILAB Main Repository](https://github.com/ruxailab/RUXAILAB)
 
 ### Objectives
-The primary objectives of my GSoC 2025 project with RUXAILAB were:
+The primary objectives of my GSoC 2025 project with Uramaki LAB were:
 1. **UI Layout Optimization**: Redesign and optimize the user interface of the RUXAILAB platform to enhance usability, accessibility, and responsiveness, ensuring a seamless experience for researchers and participants.
 2. **Vue 3 Migration**: Migrate the existing RUXAILAB codebase from Vue 2 to Vue 3 to leverage modern features, improve performance, and ensure long-term maintainability.
 3. **Feature Enhancements**: Implement new features for unmoderated usability testing and heuristic evaluation to expand the platform’s capabilities.
