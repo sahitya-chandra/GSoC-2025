@@ -178,9 +178,8 @@ Beyond coding, I actively engaged with the RUXAILAB community:
 | 23 | Feat: Firebase storage usage calculation | [#1001](https://github.com/ruxailab/RUXAILAB/pull/1001) | Merged | 2025-10-14 | 2025-10-14 |
 
 ## Additional Materials
-- **Figma Designs**: [Link](https://www.figma.com/design/RTqzPVGMf
-WuJZMwzqzc6Yc/UI-Layout-for-RUXAILAB?n
-ode-id=0-1&t=69M0BjmHgF7LjyTd-1) 
+- Figma Designs: [Link](https://www.figma.com/design/RTqzPVGMfWuJZMwzqzc6Yc/UI-Layout-for-RUXAILAB?node-id=0-1&t=69M0BjmHgF7LjyTd-1)
+
 
 ## Future Work
 - **Add Tests**: I am planning to implement unit and integrated tests for core functionality.
