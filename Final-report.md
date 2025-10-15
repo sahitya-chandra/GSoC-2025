@@ -150,7 +150,7 @@ Beyond coding, I actively engaged with the RUXAILAB community:
 - **Bug Fixes**: Resolved issues in task navigation, internationalization, and initialization errors.
 
 ### Incomplete Deliverables
-- **Light/Dark Mode**: Currently not needed.
+- **Light/Dark Mode**: Currently not needed by the Org.
 
 ## Pull Requests
 
@@ -181,11 +181,12 @@ Beyond coding, I actively engaged with the RUXAILAB community:
 | 23 | Feat: Firebase storage usage calculation | [#1001](https://github.com/ruxailab/RUXAILAB/pull/1001) | Merged | 2025-10-14 | 2025-10-14 |
 
 ## Additional Materials
-- **Blog Posts**:  
-  - (Add links to any blogs you wrote during GSoC, if applicable)  
+- **Figma Designs**: [Link](https://www.figma.com/design/RTqzPVGMf
+WuJZMwzqzc6Yc/UI-Layout-for-RUXAILAB?n
+ode-id=0-1&t=69M0BjmHgF7LjyTd-1) 
 
 ## Future Work
-- **Complete Open PRs**: Finalize and merge PR #995 for internationalization improvements.  
+- **Add Tests**: I am planning to implement unit and integrated tests for core functionality.
 - **Enhance Unmoderated Testing**: Add advanced features like real-time participant feedback and analytics.  
 - **Improve Heuristic Evaluation**: Expand heuristic evaluation templates and integrate automated scoring.  
 - **Optimize Performance**: Further optimize Vue 3 components for faster rendering and lower resource usage.  
