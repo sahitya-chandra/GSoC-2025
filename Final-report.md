@@ -3,8 +3,8 @@
 <div style="text-align: center;">
 <table style="margin: 0 auto;">
   <tr>
-    <td><img src="images/gsoc-logo.png" height="100px" alt="GSoC Logo"/></td>
-    <td><img src="images/uramaki-lab-logo.png" height="100px" alt="Uramaki Lab Logo"/></td>
+    <td><img src="images/gsoc-logo.png" height="300px" alt="GSoC Logo"/></td>
+    <td><img src="images/uramaki-lab-logo.png" height="300px" alt="Uramaki Lab Logo"/></td>
   </tr>
 </table>
 </div>
