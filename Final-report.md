@@ -5,8 +5,6 @@
   <img src="images/uramaki-lab-logo.png" height="250px" alt="Uramaki Lab Logo"/>
 </p>
 
-
-
 ## Contributor Info
 
 <div container>
@@ -14,7 +12,7 @@
 <tr>
 <td width="600px">
 &#8226; Name: Sahitya Chandra <br />
-&#8226; Organization: <a href="https://github.com/ruxailab" target="_blank">RUXAILAB</a><br />
+&#8226; Organization: <a href="https://github.com/ruxailab" target="_blank">Uramaki LAB</a><br />
 &#8226; Email: <a href="mailto:sahityajb@gmail.com" target="_blank">sahityajb@gmail.com</a><br />
 &#8226; GitHub: <a href="https://github.com/sahitya-chandra" target="_blank">sahitya-chandra</a><br />
 &#8226; LinkedIn: <a href="https://www.linkedin.com/in/sahitya-chandra75/" target="_blank">Sahitya Chandra</a><br />
