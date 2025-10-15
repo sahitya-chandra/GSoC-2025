@@ -1,13 +1,10 @@
 # GSoC 2025 - Final Work Report: UI Layout Optimization and Vue 3 Migration for RUXAILAB
 
-<div style="text-align: center;">
-<table style="margin: 0 auto;">
-  <tr>
-    <td><img src="images/gsoc-logo.png" height="300px" alt="GSoC Logo"/></td>
-    <td><img src="images/uramaki-lab-logo.png" height="300px" alt="Uramaki Lab Logo"/></td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px; margin-bottom: 20px;">
+  <img src="images/gsoc-logo.png" height="250px" alt="GSoC Logo"/>
+  <img src="images/uramaki-lab-logo.png" height="250px" alt="Uramaki Lab Logo"/>
 </div>
+
 
 ## Contributor Info
 
