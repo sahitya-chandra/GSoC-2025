@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="images/gsoc-logo.png" height="250px" alt="GSoC Logo"/>
-  <img src="images/uramaki-lab-logo.png" height="250px" alt="Uramaki Lab Logo"/>
+  <img src="images/uramaki-lab-logo.png" height="251px" alt="Uramaki Lab Logo"/>
 </p>
 
 ## Contributor Info
