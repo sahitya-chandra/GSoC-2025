@@ -173,7 +173,7 @@ Beyond coding, I actively engaged with the RUXAILAB community:
 | 18 | Redesigned loader using new RUXAILAB logo and fixed alignments | [#982](https://github.com/ruxailab/RUXAILAB/pull/982) | Closed | 2025-09-22 | None |
 | 19 | Created loader with new RUXAILAB logo | [#983](https://github.com/ruxailab/RUXAILAB/pull/983) | Merged | 2025-09-25 | 2025-09-25 |
 | 20 | Feat: Completed next-session card on dashboard | [#988](https://github.com/ruxailab/RUXAILAB/pull/988) | Merged | 2025-09-30 | 2025-10-03 |
-| 21 | Fix: Internationalization strings | [#995](https://github.com/ruxailab/RUXAILAB/pull/995) | Open | 2025-10-06 | None |
+| 21 | Fix: Internationalization strings | [#995](https://github.com/ruxailab/RUXAILAB/pull/995) | Merged | 2025-10-06 | 2025-10-17 |
 | 22 | Chore: Removed debug logs | [#1000](https://github.com/ruxailab/RUXAILAB/pull/1000) | Merged | 2025-10-08 | 2025-10-13 |
 | 23 | Feat: Firebase storage usage calculation | [#1001](https://github.com/ruxailab/RUXAILAB/pull/1001) | Merged | 2025-10-14 | 2025-10-14 |
 
