@@ -50,9 +50,9 @@ The primary objectives of my GSoC 2025 project with Uramaki LAB were:
 3. **Feature Enhancements**: Implement new features for unmoderated usability testing and heuristic evaluation to expand the platform’s capabilities.
 
 ### Project Description
-RUXAILAB is an open-source platform designed to facilitate usability testing and user experience research. My project focused on improving the platform by revamping its UI and migrating its frontend from Vue 2 to Vue 3. The UI optimization involved redesigning layouts to improve navigation, accessibility (WCAG compliance), and responsiveness across devices. The migration to Vue 3 ensured the codebase could leverage modern Vue features like the Composition API, better TypeScript support, and improved performance.
+RUXAILAB is an open-source platform designed to facilitate usability testing and user experience research. My project focused on improving the platform by revamping its UI and migrating its codebase from Vue 2 to Vue 3. The UI optimization involved redesigning layouts to improve navigation, usability, accessibility (WCAG compliance), and responsiveness across devices. The migration to Vue 3 ensured the codebase could leverage modern Vue features like the Composition API, better TypeScript support, and improved performance.
 
-Beyond the initial goals, I implemented end-to-end features for unmoderated usability testing and heuristic evaluation, adding functionalities such as task-based testing, enhanced filtering, and Firebase storage integration for user uploads. These enhancements aimed to make the platform more robust and user-friendly for conducting usability studies.
+Beyond the initial goals, I implemented end-to-end features for unmoderated usability testing and heuristic evaluation, adding functionalities such as task-based testing, restrict participant during analytics calculation, enhanced filtering, and Firebase storage integration for user uploads. These enhancements aimed to make the platform more robust and user-friendly for conducting usability studies.
 
 ### Project Structure
 - **Design Phase**: Created wireframes and mockups for redesigned UI components, focusing on accessibility and responsive design.
@@ -76,8 +76,6 @@ The migration of the RUXAILAB codebase from Vue 2 to Vue 3 was a critical delive
 
 **Key PRs**:
 - [PR #839](https://github.com/ruxailab/RUXAILAB/pull/839): Completed the migration of the RUXAILAB codebase to Vue 3, including dependency upgrades and Composition API adoption.
-- [PR #908](https://github.com/ruxailab/RUXAILAB/pull/908): Rebased the develop branch on the Vue 3 migration branch to synchronize changes.
-- [PR #953](https://github.com/ruxailab/RUXAILAB/pull/953): Removed deprecated imports and `>>>` syntax, aligning with Vue 3 standards.
 
 ### 2. UI Layout Optimization
 The UI layout optimization was a cornerstone of the project, aimed at enhancing usability, accessibility, and responsiveness across the RUXAILAB platform. This involved a comprehensive redesign of the entire UI of RUXAILAB, ensuring a seamless experience for researchers and participants. The redesign adhered to WCAG accessibility standards and incorporated modern, responsive layouts using Vuetify 3, improving navigation and data clarity.
@@ -85,7 +83,7 @@ The UI layout optimization was a cornerstone of the project, aimed at enhancing 
 **Key Tasks and Achievements**:
 - **Authentication Pages**: Revamped Sign In, Sign Up, and Forgot Password views with modern, accessible designs.
 - **Study Creation Flow**: Overhauled the multi-step study creation process, introducing a new Accessibility test category and a simplified flow using a stepper.
-- **Dashboard and Admin Views**: Refactored the Dashboard and Admin view to a clean, modern layout with improved data grouping.
+- **Dashboard and Admin Views**: Redesigned the Admin view with a complete new Dashboard view to a clean, modern layout with improved data grouping.
 - **Report View Enhancements**: Upgraded the Report View for usability tests, adding user identification (full name and email or "Unknown" for anonymous users), test status (Completed or Pending), and admin actions like direct user deletion from the report table.
 - **Analytics Views**:
   - **General Analytics**: Improved layout with intuitive visualizations of user participation and test outcomes, including user-level test summaries.
