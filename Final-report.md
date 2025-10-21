@@ -16,7 +16,7 @@
 &#8226; Email: <a href="mailto:sahityajb@gmail.com" target="_blank">sahityajb@gmail.com</a><br />
 &#8226; GitHub: <a href="https://github.com/sahitya-chandra" target="_blank">sahitya-chandra</a><br />
 &#8226; LinkedIn: <a href="https://www.linkedin.com/in/sahitya-chandra75/" target="_blank">Sahitya Chandra</a><br />
-&#8226; X: <a href="https://x.com/sahitya_75" target="_blank">sahitya_75</a><br />
+&#8226; X: <a href="https://x.com/sahitya_twt" target="_blank">sahitya_75</a><br />
 <td>
 <a href="https://github.com/sahitya-chandra"><img src="https://github.com/sahitya-chandra.png" height="250px" width="250px;" alt="Sahitya Chandra"/></a>
 </td>
